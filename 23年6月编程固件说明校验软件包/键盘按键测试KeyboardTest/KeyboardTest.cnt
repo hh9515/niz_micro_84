@@ -1,0 +1,17 @@
+:Base KeyboardTest.hlp
+:Title KeyboardTest
+1 Introduction and Overview=HID_OVERVIEW
+1 What's new=HID_WHATS_NEW
+1 Understanding the display=HID_DISPLAY
+1 Creating custom keyboard layouts=HID_KBLAYOUT
+1 Keys that can and can't be tested=HID_TESTKEYS
+1 Command line parameters=HID_COMMANDLINE
+1 Batch mode testing=HID_BATCHMODE
+1 Problems and FAQ=HID_FAQ
+1 System requirements=HID_SYSTEMREQ
+1 Contacting PassMark Software=HID_CONTACTS
+1 Copyright and License=HID_COPYRIGHT
+1 Purchasing information=HID_ORDERING
+1 Reference information
+2 Windows Key Codes=HID_WIN_KEYCODES
+2 Windows keyboard language codes=HID_WIN_LANG_CODES
